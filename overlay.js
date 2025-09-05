@@ -58,7 +58,7 @@
      */
     //safeModeDisableGetJSON = true;
     //safeModeDisableUI = true;
-    loadOverlay("https://raw.githubusercontent.com/Haykira/ponce_zplace_2024/main/overlay.png" );
+    loadOverlay("https://raw.githubusercontent.com/Haykira/zplace-2025/refs/heads/main/ponce_overlay.png" );
     //loadOverlay("https://raw.githubusercontent.com/ludolpif/overlay-zevent-place/main/examples/demo-overlay2.png" );
     //loadOverlay("https://somewebsite.com/someoverlay.png","A short title" );
     /*
